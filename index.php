@@ -1,5 +1,5 @@
 <?php
-require 'vendor/PhpOptimizer.php';
+require 'PhpOptimizer.php';
 
 use PhpOptimizer\AdvancedOptimizer;
 
